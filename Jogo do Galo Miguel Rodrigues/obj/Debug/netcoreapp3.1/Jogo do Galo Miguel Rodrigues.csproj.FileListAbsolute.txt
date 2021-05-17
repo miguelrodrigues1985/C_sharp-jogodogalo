@@ -1,0 +1,26 @@
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.exe
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.deps.json
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.runtimeconfig.json
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.dll
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.pdb
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.dll
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.pdb
+C:\Users\Miguel\Desktop\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.genruntimeconfig.cache
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.exe
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.deps.json
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.runtimeconfig.json
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.runtimeconfig.dev.json
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.dll
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\bin\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.pdb
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.csprojAssemblyReference.cache
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.AssemblyInfoInputs.cache
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.AssemblyInfo.cs
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.csproj.CoreCompileInputs.cache
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.dll
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.pdb
+D:\Documentos Formação\Luis Cardoso\3-3935-Programação em c#\Trabalho Final\C#\Jogo do galo Miguel Rodrigues\Jogo do Galo Miguel Rodrigues\obj\Debug\netcoreapp3.1\Jogo do Galo Miguel Rodrigues.genruntimeconfig.cache
